@@ -113,9 +113,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.comnsccceborg"
+    namespace "com.nsccceb.org"
     defaultConfig {
-        applicationId "com.comnsccceborg"
+        applicationId "com.nsccceb.org"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
