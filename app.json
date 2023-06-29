@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "com-nsccceb-org",
+    "slug": "com-nsccceb-org",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
